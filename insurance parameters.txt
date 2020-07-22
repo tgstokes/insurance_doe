@@ -1,0 +1,4 @@
+Registration:KW10PHO
+Value:3600
+Modification:No
+Mileage:10000
